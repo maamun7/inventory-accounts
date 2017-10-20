@@ -1,0 +1,1 @@
+<div class="subnav11">  <ul class="nav nav-tabs">      {sub_menu}      <li class="{class}"><a href="<?=base_url()?>{url}" title="{title}">{label}</a></li>      {/sub_menu}  </ul></div>
